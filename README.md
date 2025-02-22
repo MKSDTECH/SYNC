@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32df385a-8a06-4a75-a57c-fa95094f78ec)
+![Image](https://github.com/user-attachments/assets/55999b15-eea3-404a-a3b3-40c1dd5b8563)
 
 # Rhino SYNC
 ## Rhino collaboration
@@ -21,4 +21,4 @@ Key Features
 Rhino Sync Creates .dat files in the same folder as the .3dm file. If you have issue, deleting these files resets collaboration after all users exit collaboration mode.
 
 
-![image](https://github.com/user-attachments/assets/a5716b49-f6ad-4820-af81-0479d72bc796)
+![Image](https://github.com/user-attachments/assets/8c45c18e-70de-423f-bd1e-e81cc22047ec)
